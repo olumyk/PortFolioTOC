@@ -1,5 +1,5 @@
 # Mayokun Project Portfolio
-Hi there! This documentation is like a quick snapshot of my project in the data field, showing off my skills and know-how in this area.
+Welcome! Explore my data project snapshot—a quick glimpse into my expertise in data science and analytics. Dive in to see how I tackle real-world challenges with cutting-edge techniques!
 
 ## Portfolio Contents
 1. [Web Scraping: GTA House Price Analysis](#web_scrapping)
