@@ -14,7 +14,8 @@ Explore my data project snapshot—a quick glimpse into my expertise in data sci
 ### 📊 Data Analysis
 Project Link | Category | Tools | Description
 ---|---|---|---
-[Predicting Diabetes](https://github.com/olumyk/predicting_diabetes.git) | Data Analysis and Machine Learning | Python |  This project includes data loading, exploration, cleaning, analysis, and predictive model training using various machine learning algorithms. It aims to provide valuable insights into medical diagnosis through data science and AI techniques.
+| [GTA House Price Analysis](https://github.com/olumyk/webscrapping.git) | Web Scrapping and Data Analysis | Python | scrape and analyze house prices in whole GTA region. |
+| [Airbnb Analysis](https://) | Data Analysis | MySQL | write sql code to solve complex problem |
 
 <br>
 <br>
@@ -25,7 +26,7 @@ Project Link | Category | Tools | Description
 | --- | --- | --- | --- |
 | [Bank Marketing Campaign](https://) | Data Analysis and Machine Learning | Python | Predicted customer subscription or not. |
 | [Predicting Diabetes](https://github.com/olumyk/predicting_diabetes.git) | Data Analysis and Machine Learning | Python | This project includes data loading, exploration, cleaning, analysis, and predictive model training using various machine learning algorithms. It aims to provide valuable insights into medical diagnosis through data science and AI techniques. |
-
+| [Evaluating Risk](https://github.com/olumyk/risk_model.git) | Data Analysis and Machine Learning | Python | Predicted customer risk level. |
 
 
 <br>
@@ -39,24 +40,5 @@ Project Link | Category | Tools | Description
 
 <br>
 <br>
-
-<a name="insurance"></a>
-### 🏥 insurance
-Project Link | Category | Tools | Description 
----|---|---|---
-[Evaluating Risk](https://github.com/olumyk/risk_model.git) | Data Analysis and Machine Learning | Python | Predicted customer risk level.
-
-<br>
-<br>
-
-<a name="hospitality"></a>
-### 🏨 hospitality
-Project Link | Category | Tools | Description 
----|---|---|---
-[Airbnb Analysis](https://) | Data Analysis | MySQL | write sql code to solve complex problem 
-<br>
-<br>
-
-
 
 
