@@ -36,7 +36,7 @@ Project Link | Category | Tools | Description
 ### 💾 Data Engineering
 Project Link | Category | Tools | Description 
 ---|---|---|---
-| [Big Data Project]([https://](https://github.com/olumyk/musk_sentiment.git)) |  | Spark |  |
+| [Big Data Project](https://github.com/olumyk/musk_sentiment.git) |  | Spark |  |
 
 <br>
 <br>
