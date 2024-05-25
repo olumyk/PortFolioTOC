@@ -21,11 +21,11 @@ Project Link | Category | Tools | Description
 
 <a name="data_scientist"></a>
 ### 🤖 Data Science
-Project Link | Category | Tools | Description 
----|---|---|---
-[Bank Marketing Campaign](https://) | Data Analysis and Machine Learning | Python  | Predicted customer subscription or not.
+| Project Title | Category | Tools | Description |
+| --- | --- | --- | --- |
+| [Bank Marketing Campaign](https://) | Data Analysis and Machine Learning | Python | Predicted customer subscription or not. |
+| [Predicting Diabetes](https://github.com/olumyk/predicting_diabetes.git) | Data Analysis and Machine Learning | Python | This project includes data loading, exploration, cleaning, analysis, and predictive model training using various machine learning algorithms. It aims to provide valuable insights into medical diagnosis through data science and AI techniques. |
 
-[Predicting Diabetes](https://github.com/olumyk/predicting_diabetes.git) | Data Analysis and Machine Learning | Python |  This project includes data loading, exploration, cleaning, analysis, and predictive model training using various machine learning algorithms. It aims to provide valuable insights into medical diagnosis through data science and AI techniques.
 
 
 <br>
