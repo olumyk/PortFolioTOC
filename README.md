@@ -2,9 +2,9 @@
 Explore my data project snapshot—a quick glimpse into my expertise in data science and analytics. Dive in to see how I tackle real-world challenges with cutting-edge techniques!
 
 ## Portfolio Contents
-1. [Data Analysis with Python and SQL] (#data_analyst)
-2. [Data Analysis and Machine Learning] (#data_scientist)
-3. [Data Engineering] (#data_engineer)
+1. [Data Analysis with Python and SQL](#data_analyst)
+2. [Data Analysis and Machine Learning](#data_scientist)
+3. [Data Engineering](#data_engineer)
 
 
 <br>
