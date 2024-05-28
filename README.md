@@ -14,8 +14,8 @@ Explore my data project snapshot—a quick glimpse into my expertise in data sci
 ### 📊 Data Analysis
 Project Link | Category | Tools | Description
 ---|---|---|---
-| [GTA House Price Analysis](https://github.com/olumyk/webscrapping.git) | Web Scrapping and Data Analysis | Python | scrape and analyze house prices in whole GTA region. |
-| [Airbnb Analysis](https://) | Data Analysis | MySQL | write sql code to solve complex problem |
+| [GTA House Price Analysis](https://github.com/olumyk/webscrapping.git) | Web Scrapping and Data Analysis | Python | scrape and analyze house prices in GTA region. |
+| [Airbnb Analysis](https://) | Data Analysis | SQL | write sql code to solve complex problem |
 
 <br>
 <br>
@@ -36,7 +36,7 @@ Project Link | Category | Tools | Description
 ### 💾 Data Engineering
 Project Link | Category | Tools | Description 
 ---|---|---|---
-| [Big Data Project](https://github.com/olumyk/musk_sentiment.git) |  | Spark |  |
+| [Sentiment Analysis](https://github.com/olumyk/musk_sentiment.git) | Big Data  | Spark, Python, SQL | This project collects, preprocesses, and analyzes Twitter data mentioning Elon Musk. It involves sentiment analysis, topic modeling, and machine learning to predict sentiment, culminating in a dashboard that visualizes insights from the data. |
 
 <br>
 <br>
