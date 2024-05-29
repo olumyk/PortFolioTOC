@@ -1,5 +1,5 @@
 # 🌟 Welcome to Mayokun's Project Portfolio
-Explore my data project snapshot—a quick glimpse into my expertise in data science and analytics. Dive in to see how I tackle real-world challenges with cutting-edge techniques!
+Discover my data project snapshot for a quick overview of my expertise in data science and analytics.
 
 ## Portfolio Contents
 1. [Data Analysis with Python and SQL](#data_analyst)
