@@ -15,7 +15,7 @@ Discover my data project snapshot for a quick overview of my expertise in data s
 Project Link | Category | Tools | Description
 ---|---|---|---
 | [GTA House Price Analysis](https://github.com/olumyk/webscrapping.git) | Web Scrapping and Data Analysis | Python | scrape and analyze house prices in GTA region. |
-| [Airbnb Analysis](https://) | Data Analysis | SQL | write sql code to solve complex problem |
+| [Airbnb Analysis]([https://](https://github.com/olumyk/airbnb_analysis.git)) | Data Analysis | SQL | write sql code to solve complex problem |
 | [Movie Analysis](https://) | Data Analysis | SQL | write sql code to solve complex problem |
 
 <br>
