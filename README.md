@@ -5,6 +5,7 @@ Discover my data project snapshot for a quick overview of my expertise in data s
 1. [Data Analysis with Python and SQL](#data_analyst)
 2. [Data Analysis and Machine Learning](#data_scientist)
 3. [Data Engineering](#data_engineer)
+4. [Artificial Intelligence](#AI) 
 
 
 <br>
@@ -38,6 +39,17 @@ Project Link | Category | Tools | Description
 Project Link | Category | Tools | Description 
 ---|---|---|---
 | [Sentiment Analysis](https://github.com/olumyk/musk_sentiment.git) | Big Data  | Spark, Python, SQL | This project collects, preprocesses, and analyzes Twitter data mentioning Elon Musk. It involves sentiment analysis, topic modeling, and machine learning to predict sentiment, culminating in a dashboard that visualizes insights from the data. |
+
+<br>
+<br>
+
+
+<a name="AI"></a>
+### 🤖 Artificial Intelligence
+Project Link | Tools | Insights 
+---|---|---
+| [FineTuning_LLM](https://github.com/olumyk/finetuning_llm.git) | Python, PyTorch, TensorFlow, AWS SageMaker, LLM | The development of a domain-specific language model finds applications in sectors such as chatbots, internal knowledge bases, and text content generation across various industries |
+
 
 <br>
 <br>
