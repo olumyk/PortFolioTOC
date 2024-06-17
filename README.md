@@ -24,11 +24,11 @@ Project Link | Category | Tools | Description
 
 <a name="data_scientist"></a>
 ### 🤖 Data Science
-| Project Title | Category | Tools | Description |
-| --- | --- | --- | --- |
-| [Bank Marketing Campaign](https://) | Data Analysis and Machine Learning | Python | Predicted customer subscription or not. |
-| [Predicting Diabetes](https://github.com/olumyk/predicting_diabetes.git) | Data Analysis and Machine Learning | Python | This project includes data loading, exploration, cleaning, analysis, and predictive model training using various machine learning algorithms. It aims to provide valuable insights into medical diagnosis through data science and AI techniques. |
-| [Evaluating Risk](https://github.com/olumyk/risk_model.git) | Data Analysis and Machine Learning | Python | Predicted customer risk level. |
+Project Link | Tools | Insights 
+| ---|---|--- |
+| [Bank Marketing Campaign](https://github.com/olumyk/bank_campaign.git) | Python, Scikit-learn, Matplotlib, Seaborn | Enhanced the predictive accuracy of marketing campaigns by using machine learning models to forecast customer behavior |
+| [Predicting Diabetes](https://github.com/olumyk/predicting_diabetes.git) | Python, Scikit-learn, Matplotlib, Seaborn | It aims to provide valuable insights into medical diagnosis through data science and AI techniques. |
+| [Evaluating Risk](https://github.com/olumyk/risk_model.git) | Python, Scikit-learn, Matplotlib, Seaborn | Predicted customer risk level. |
 
 
 <br>
@@ -47,7 +47,7 @@ Project Link | Category | Tools | Description
 <a name="AI"></a>
 ### 🤖 Artificial Intelligence
 Project Link | Tools | Insights 
----|---|---
+| ---|---|--- |
 | [FineTuning_LLM](https://github.com/olumyk/finetuning_llm.git) | Python, PyTorch, TensorFlow, AWS SageMaker, LLM | The development of a domain-specific language model finds applications in sectors such as chatbots, internal knowledge bases, and text content generation across various industries |
 
 
