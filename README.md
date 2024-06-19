@@ -13,11 +13,11 @@ Discover my data project snapshot for a quick overview of my expertise in data s
 
 <a name="data_analyst"></a>
 ### 📊 Data Analysis
-Project Link | Category | Tools | Description
----|---|---|---
-| [GTA House Price Analysis](https://github.com/olumyk/webscrapping.git) | Web Scrapping and Data Analysis | Python | scrape and analyze house prices in GTA region. |
-| [Airbnb Analysis](https://github.com/olumyk/airbnb_analysis.git) | Data Analysis | SQL | write sql code to solve complex problem |
-| [Movie Analysis](https://github.com/olumyk/movie_rental_analysis.git) | Data Analysis | SQL | write sql code to solve complex problem |
+Project Link | Tools | Insights
+| ---|---|--- |
+| [GTA House Price Analysis](https://github.com/olumyk/webscrapping.git) | Python | affordable and expensive real estate areas within the GTA are identified based on the analysis of over 6,000 house listings scraped from zolo.ca |
+| [Airbnb Analysis](https://github.com/olumyk/airbnb_analysis.git) | SQL | the analysis reveals key insights into listing availability, geographic distribution, and pricing strategies, essential for optimizing market strategy and enhancing customer satisfaction |
+| [Movie Analysis](https://github.com/olumyk/movie_rental_analysis.git) | SQL | analysis uncovers rental volumes, staff performance, inventory status, revenue trends, and film popularity, guiding strategic decisions to enhance operational efficiency and maximize revenue for a movie rental store |
 
 <br>
 <br>
@@ -29,6 +29,7 @@ Project Link | Tools | Insights
 | [Bank Marketing Campaign](https://github.com/olumyk/bank_campaign.git) | Python, Scikit-learn, Matplotlib, Seaborn | Enhanced the predictive accuracy of marketing campaigns by using machine learning models to forecast customer behavior |
 | [Predicting Diabetes](https://github.com/olumyk/predicting_diabetes.git) | Python, Scikit-learn, Matplotlib, Seaborn | It aims to provide valuable insights into medical diagnosis through data science and AI techniques. |
 | [Evaluating Risk](https://github.com/olumyk/risk_model.git) | Python, Scikit-learn, Matplotlib, Seaborn | Predicted customer risk level. |
+| [Promoting Brand](https://github.com/olumyk/view_to_click.git) | Python, Scikit-learn, Matplotlib, Seaborn | ... |
 
 
 <br>
@@ -36,9 +37,9 @@ Project Link | Tools | Insights
 
 <a name="data_engineer"></a>
 ### 💾 Data Engineering
-Project Link | Category | Tools | Description 
----|---|---|---
-| [Sentiment Analysis](https://github.com/olumyk/musk_sentiment.git) | Big Data  | Spark, Python, SQL | This project collects, preprocesses, and analyzes Twitter data mentioning Elon Musk. It involves sentiment analysis, topic modeling, and machine learning to predict sentiment, culminating in a dashboard that visualizes insights from the data. |
+Project Link | Tools | Insights 
+| ---|---|--- |
+| [Sentiment Analysis](https://github.com/olumyk/musk_sentiment.git) | Spark, Python, SQL | This project collects, preprocesses, and analyzes Twitter data mentioning Elon Musk. It involves sentiment analysis, topic modeling, and machine learning to predict sentiment, culminating in a dashboard that visualizes insights from the data. |
 
 <br>
 <br>
